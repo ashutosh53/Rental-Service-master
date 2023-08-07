@@ -1,0 +1,61 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+body{
+	text-align: center !important;
+    /* background-image: url("https://images.pexels.com/photos/849835/pexels-photo-849835.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+    /* background-image: ; */
+    /* background-color: rgb(224, 227, 231); */
+    background-color: #1A1A1A;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.col-md-4{
+    height: 400px;
+    /* background-image: url("https://images.pexels.com/photos/1036936/pexels-photo-1036936.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+    /* width: 100%; */
+    /* margin-top: 10%; */
+    /* background-color: rgb(252, 255, 254); */
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(72, 70, 70);
+    border-radius: 5px;
+    margin-top: 100px;
+    box-shadow: #130808;
+    color: white;
+
+
+
+    box-shadow: 0px 5px 10px 0px rgba(254, 249, 249, 0.5);
+
+
+
+    
+}
+span{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.btn{
+    color: black;
+    background-color: rgb(253, 253, 253);
+}
+.btn:hover{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+}
